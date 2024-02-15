@@ -30,6 +30,9 @@
         <release version="6.1.0" date="2023-06-07">
         </release>
     </releases>
+    <provides>
+        <binary>geekbench6</binary>
+    </provides>
     <categories>
         <category>System</category>
     </categories>
