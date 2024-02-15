@@ -3,6 +3,7 @@
     <id>com.geekbench.Geekbench6</id>
     <name>Geekbench 6</name>
     <summary>Cross-platform system benchmark</summary>
+    <developer_name>Primate Labs Inc.</developer_name>
     <url type="homepage">https://www.geekbench.com/</url>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>LicenseRef-proprietary</project_license>
