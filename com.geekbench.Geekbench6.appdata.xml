@@ -20,8 +20,8 @@
     <content_rating type="oars-1.1" />
     <screenshots>
         <screenshot type="default">
-            <caption>Running the vulkan benchmark</caption>
-            <image type="source">https://raw.githubusercontent.com/X-m7/com.geekbench.Geekbench6/b38b8a195a94abc821c2e18a0decb49cd25329fa/screenshot1.png</image>
+            <caption>Running the benchmark</caption>
+            <image type="source">https://raw.githubusercontent.com/flathub/com.geekbench.Geekbench6/1bf8a67509da0e98aacbf53b3642cf68e81ede01/screenshot1.png</image>
         </screenshot>
     </screenshots>
     <releases>
